@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef3bf0bf-162d-4a3f-a35e-4cd6be367823" name="codebreaker" url="http://webdev.cse.msu.edu/~zhang546/exam">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/zhang546/classweb/exam" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
